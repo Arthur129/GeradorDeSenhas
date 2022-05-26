@@ -1,1 +1,1 @@
-#ola, esse e um gerador de senhas aleatorias
+ola, esse e um gerador de senhas aleatorias
