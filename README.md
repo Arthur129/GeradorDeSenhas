@@ -5,4 +5,4 @@ Meu primeiro código de um gerador de senhas aleatórias utilizando as tecnologi
 - JavaScript
 # Disponivel em 
 
-<a href="https://Arthur129.github.io/GeradorDeSenhas/"target="_blank">Gerador de Senhas</a>
+<a href="https://Arthur129.github.io/GeradorDeSenhas/">Gerador de Senhas</a>
